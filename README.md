@@ -26,7 +26,6 @@
 `Web Pentesting` `OWASP Top 10` `XSS` `CSRF` `SQL Injection`
 `Network Security` `Cloud Security (AWS)` `Security Automation` `Linux`
 
-**Currently on:** PortSwigger Web Security Academy · Hack The Box · Burp Suite
 
 ---
 
@@ -74,7 +73,7 @@ Autonomous platform combining LLM-based reasoning with cloud security investigat
 <a href="https://github.com/Yahya-harrachi">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/harrachi-yahya-298a3a304/">
 <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41"/>
 </a>
 </p>
