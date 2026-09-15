@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/5th_Year-Cybersecurity_Student-00FF41?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-  <img src="https://img.shields.io/badge/EMSI-Morocco-00FF41?style=for-the-badge"/>
+  
 </p>
 
 ---
